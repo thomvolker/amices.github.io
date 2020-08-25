@@ -1,4 +1,4 @@
-## Welcome to `amices`
+## Welcome to amices
 
 A place for people interested in solving missing data problems.
 
@@ -10,7 +10,7 @@ A place for people interested in solving missing data problems.
 
 ### Course materials
 
-1. [Handling Missing Data in `R` with `mice`](https://amices.github.io/Winnipeg/)
+1. [Handling Missing Data in R with mice](https://amices.github.io/Winnipeg/)
 2. [Statistical Methods for combined data sets](https://stefvanbuuren.github.io/RECAPworkshop/)
 
 ### Vignettes
