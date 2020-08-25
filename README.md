@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to `amices`
 
-You can use the [editor on GitHub](https://github.com/amices/amices.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A place for people interested in solving missing data problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resources
 
-### Markdown
+### Books
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Van Buuren, S. (2018). [Flexible Imputation of Missing Data. Second Edition.](https://stefvanbuuren.name/fimd/). Chapman & Hall/CRC. Boca Raton, FL.
 
-```markdown
-Syntax highlighted code block
+### Course materials
 
-# Header 1
-## Header 2
-### Header 3
+1. [Handling Missing Data in `R` with `mice`](https://amices.github.io/Winnipeg/)
+2. [Statistical Methods for combined data sets](https://stefvanbuuren.github.io/RECAPworkshop/)
 
-- Bulleted
-- List
+### Vignettes
 
-1. Numbered
-2. List
+1. [Ad hoc methods and the MICE algorithm](https://gerkovink.github.io/miceVignettes/Ad_hoc_and_mice/Ad_hoc_methods.html)
+2. [Convergence and pooling](https://gerkovink.github.io/miceVignettes/Convergence_pooling/Convergence_and_pooling.html)
+3. [Inspecting how the observed data and missingness are related](https://gerkovink.github.io/miceVignettes/Missingness_inspection/Missingness_inspection.html)
+4. [Passive imputation and post-processing](https://gerkovink.github.io/miceVignettes/Passive_Post_processing/Passive_imputation_post_processing.html)
+5. [Imputing multilevel data](https://gerkovink.github.io/miceVignettes/Multi_level/Multi_level_data.html)
+6. [Sensitivity analysis with `mice`](https://gerkovink.github.io/miceVignettes/Sensitivity_analysis/Sensitivity_analysis.html)
+7. [Generate missing values with `ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)
 
-**Bold** and _Italic_ and `Code` text
+### Code from publications
 
-[Link](url) and ![Image](src)
-```
+1. [Flexible Imputation of Missing Data. Second edition.](https://github.com/stefvanbuuren/FIMD2/tree/master/R)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amices/amices.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
