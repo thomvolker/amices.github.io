@@ -28,5 +28,7 @@ A place for people interested in solving missing data problems.
 1. [Flexible Imputation of Missing Data. Second edition.](https://github.com/stefvanbuuren/FIMD2/tree/master/R)
 
 
+![mice](https://user-images.githubusercontent.com/38891540/137712745-1cbff954-81e8-4abc-bccb-3bd99090c15d.png)
+
 
 
