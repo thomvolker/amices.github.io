@@ -4,6 +4,11 @@
 
 1. Van Buuren, S. (2018). [Flexible Imputation of Missing Data. Second Edition.](https://stefvanbuuren.name/fimd/). Chapman & Hall/CRC. Boca Raton, FL.
 
+### Software
+
+1. [`mice`: Multivariate Imputation by Chained Equations](https://amices.org/mice/)
+2. [`ggmice`: Visualizations for `mice` with `ggplot2`](https://amices.org/ggmice/)
+
 ### Course materials
 
 1. [Handling Missing Data in R with mice](https://amices.github.io/Winnipeg/)
